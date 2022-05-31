@@ -1,3 +1,5 @@
+Posted on May, 2022
+
 chronic_hunger, hidden_hunger: chronic and hidden hunger calculated from Godecke, Stein and Qaim (2018) with data from the Global Burden of Diseases, Injuries, and Risk Factors Study 2017 (IHME, 2019)
 
 chronic_hngr_pc,hidden_hngr_pc: chronic and hidden hunger per capita
